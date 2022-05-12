@@ -50,9 +50,9 @@ We choose to recreate pokemon red fire
 
 ### instalation step by step
 
-clone `git clone git@github.com:Leandre17/Epitech-my_rpg.git`
+clone `git clone git@github.com:Johannabureau/my_RPG_Pokemon.git`
 
-go to the repo `cd Epitech-my_rpg`
+go to the repo `cd my_RPG_Pokemon`
 
 compile the project `make re`
 
@@ -61,8 +61,8 @@ launch `./my_rpg`
 ### instalation all in one
 
 ```bash
-git clone git@github.com:Leandre17/Epitech-my_rpg.git
-cd Epitech-my_rpg
+git clone git@github.com:Johannabureau/my_RPG_Pokemon.git
+cd my_RPG_Pokemon
 make re
 ./my_rpg
 ```
