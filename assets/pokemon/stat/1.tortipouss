@@ -1,0 +1,29 @@
+tortipouss
+#position sprite
+1 34
+#path:
+assets/pokemon/sprite/Gen4.png
+#Nombre dans le pokedex
+1
+#stat de base (a voir dans pokepedia)
+55
+68
+64
+45
+55
+31
+#stat par level (prend la stat de base la plus haute et mes lui 5)
+5
+2
+5
+1
+4
+1
+#level
+1
+#l'ex (0 vu que c'est quand il est lv 1)
+0
+#type (regarde l'enum de type)
+11
+#attaque (c'est le nom des attaques)
+1.charge

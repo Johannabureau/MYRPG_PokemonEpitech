@@ -1,0 +1,29 @@
+marcacrin
+#position sprite
+1702 1984
+#path:
+assets/pokemon/sprite/Gen2.png
+#Nombre dans le pokedex
+3
+#stat de base (a voir dans pokepedia)
+50
+50
+40
+30
+30
+50
+#stat par level (prend la stat de base la plus haute et mes lui 5)
+5
+2
+4
+2
+4
+1
+#level
+1
+#l'ex (0 vu que c'est quand il est lv 1)
+0
+#type (regarde l'enum de type)
+14/4
+#attaque (c'est le nom des attaques)
+1.charge

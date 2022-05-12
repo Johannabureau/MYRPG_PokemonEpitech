@@ -1,0 +1,29 @@
+Rondoudou
+#position sprite
+972 895
+#path:
+assets/pokemon/sprite/Gen1.png
+#Nombre dans le pokedex
+5
+#stat de base (a voir dans pokepedia)
+115
+45
+20
+45
+25
+20
+#stat par level (prend la stat de base la plus haute et mes lui 5)
+5
+2
+1
+1
+2
+1
+#level
+1
+#l'ex (0 vu que c'est quand il est lv 1)
+0
+#type (regarde l'enum de type)
+0
+#attaque (c'est le nom des attaques)
+1.charge
