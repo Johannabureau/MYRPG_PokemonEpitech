@@ -71,7 +71,7 @@ make re
 
 # Credits
 
-### Samuel Florantin
+### Samuel Florentin
 <a href="https://github.com/SamuelFlorentin" rel="some text"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="42" height="42"></a>
 <a href="https://www.linkedin.com/in/samuel-florentin-989138234/" rel="some text"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="42" height="42"></a>
 
